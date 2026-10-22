@@ -10,7 +10,7 @@ body {
   background: #fffaf5;
 }
 
-/* Bağlantılar için altı çizili görünüm */
+/* 2. Hafta - S3: Sitedeki tüm bağlantılar için altı çizili görünüm */
 a {
   text-decoration: underline;
 }
@@ -50,9 +50,9 @@ nav a:focus {
   color: #ad4d28;
 }
 
-/* H1 Başlık stili ve yeni rengi */
+/* 2. Hafta - U3: H1 Başlık stili ve yeni rengi (Slayt 19 çözümü: #163b65) */
 h1 {
-  color: #6b321c;
+  color: #163b65;
 }
 
 .hero {
@@ -62,7 +62,7 @@ h1 {
 }
 
 .hero h1 {
-  color: #6b321c;
+  color: #163b65;
   font-size: clamp(28px, 5vw, 48px);
   line-height: 1.2;
   max-width: 790px;
@@ -81,6 +81,7 @@ h1 {
   padding: 11px 20px;
   border-radius: 8px;
   text-decoration: none;
+  margin: 5px;
 }
 
 main {

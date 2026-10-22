@@ -1,0 +1,34 @@
+================================================================================
+BİLTEK MYO / SEO VE WEB ANALİTİĞİ DERSİ - KONTROL VE DEĞERLENDİRME NOTLARI
+Proje: Mavi Fırın (https://idilyucel.github.io/mavi-firin.github.io/)
+================================================================================
+
+3. Hafta - S1: GitHub Repo Açıklaması:
+"SEO dersi için örnek Türkçe fırın web sitesi."
+
+3. Hafta - U4: CSS Hatası:
+Site açılıyor ancak CSS görünmüyorsa ilk olarak HTML içindeki CSS dosya yolu (<link rel="stylesheet" href="style.css">) ve dosya adındaki yazım / büyük-küçük harf hataları incelenmelidir.
+
+2. Hafta - U4 & S4: Mobil Test ve Taşan Öğe:
+Tarayıcı penceresi daraltıldığında (mobil görünüm simülasyonu / <600px):
+- Sayfadaki metinler 'clamp' ve göreceli boyutlandırma sayesinde ekran genişliğine uyum sağlamakta ve yüksek okunabilirlik sunmaktadır.
+- Navigasyon menüsü dikey hizalanmaya geçerek ekrana sığmaktadır.
+- Kart yapıları esnek kılavuz (CSS Grid auto-fit) ile tek sütuna düşmekte ve sayfada yatay kaydırma çubuğu (horizontal scroll) oluşturan hiçbir taşan öğe bulunmamaktadır. Sayfa %100 mobil uyumlu ve taşmasızdır.
+
+1. Hafta - U2: Site Sayfaları:
+index.html, urunler.html, hakkimizda.html, iletisim.html.
+
+1. Hafta - U3: Google Sonuç Taslağı:
+Başlık: "Mavi Fırın | Eskişehir Taze Ekmek"
+Açıklama: "Günlük ekmek çeşitlerini ve adresimizi keşfedin."
+
+1. Hafta - S1: "Yakınımdaki fırın" Araması:
+Bu arama için konum, adres ve ulaşım bilgisi (çalışma saatleri ve telefon ile birlikte) öne çıkmalıdır.
+
+1. Hafta - S2 & S3: Sayfa Amaçları:
+- Ürünler: Çeşitler ve unlu mamul detayları
+- Hakkımızda: İşletme hikayesi, üretim anlayışı ve fırın felsefesi
+- İletişim: Adres, harita/ulaşım ve çalışma saatleri
+
+1. Hafta - S4: Eksik Bilgi Önerisi:
+Çalışma saatleri ve ürün fiyatları eklenebilir.
